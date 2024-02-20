@@ -1,4 +1,4 @@
-<h1>Hola! Soy Estefania Villan  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> ❤ </h1>
+<h1>Hola! Soy Estefanía Villán  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> ❤ </h1>
 <h2>Frontend en formacion🎨</h2>
 
 ### Acerca de mí
@@ -18,7 +18,7 @@
 ¡Gracias por visitar mi perfil!
 
 
-<h1>Hello! I am Estefanía Villan <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> ❤ </h1>
+<h1>Hello! I am Estefanía Villán <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> ❤ </h1>
 <h2>Frontend in training🎨</h2>
 
 ### About me
