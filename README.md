@@ -1,25 +1,21 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Welcome.%20&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
-<h1>Hola! Soy Estefanía Villán  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> ❤ </h1>
-<h2>Frontend en formacion🎨</h2>
+<p align="center">
+  <img src="./Assets/banner.gif" alt="estefania villan  frontend" />
+</p>
+<h1>  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"  width="30px"> Hola! Soy Estefanía Villán  </h1>
+<h2>Desarrolladora Frontend en formacion🎨</h2>
 
 ### Acerca de mí
-- 🧝🏼‍♀️Tengo 26 años vivo en Medellín Colombia.
-- 🌱Técnico en Desarrollo de Software.
-- 👩‍💻Soy una persona autodidacta y altamente creativa que busca aprender y mejorar cada día.
-- 🖼 Disfruto trabajando con el frontend porque quiero brindar la mejor experiencia visual a los usuarios que visitan mis proyectos.
-- ⚡ Dato curioso: [Tambien soy auxiliar veterinaria].
-
-
-
-
-
-
+ 🧝🏼‍♀️Tengo 26 años vivo en Medellín Colombia. <br>
+ 🌱Técnico en Desarrollo de Software.<br>
+ 👩‍💻Soy una persona autodidacta y  creativa que busca aprender y mejorar cada día.<br>
+ 🖼 Disfruto trabajando con el frontend porque quiero brindar la mejor experiencia visual a los usuarios que visitan mis proyectos y me gusta mezclar la tecnologia con el arte.<br>
+⚡ Dato curioso: [Tambien soy auxiliar veterinaria].
 
 
 ## <h3 align="center"> Mi Stack de Desarrollo Web ⚒ </h3>
 
-<table border="1" cellpadding="20">
+<table border="1" cellpadding="20" align="center">
   <thead>
     <tr>
       <th>Categoría</th>
@@ -57,22 +53,22 @@
 
 	
 
-¡Gracias por visitar mi perfil!
+### ¡Gracias por visitar mi perfil!❤<br><br>
 
 
-<h1>Hello! I am Estefanía Villán <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> ❤ </h1>
+<h1> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Hello! I am Estefanía Villán  </h1>
 <h2>Frontend in training🎨</h2>
 
 ### About me
-- 🧝🏼‍♀️I am 26 years old and live in Medellín Colombia.
-- 🌱Software Development Technician.
-- 👩‍💻I am a self-taught and highly creative person who seeks to learn and improve every day.
-- 🖼 I enjoy working with the frontend because I want to provide the best visual experience to users who visit my projects.
-- ⚡ Fun fact: [I am also a veterinary assistant].
+ 🧝🏼‍♀️I am 26 years old and live in Medellín Colombia.<br>
+ 🌱Software Development Technician.<br>
+ 👩‍💻I am a self-taught and highly creative person who seeks to learn and improve every day.<br>
+ 🖼 I enjoy working with the frontend because I want to provide the best visual experience to users who visit my projects.<br>
+ ⚡ Fun fact: [I am also a veterinary assistant].
 
-## <h3 align="center"> My Web Development Stack ⚒ </h3>
+##  <h3 align="center"> My Web Development Stack ⚒ </h3>
 
-<table border="1" cellpadding="20">
+<table border="1" cellpadding="20" align="center">
   <thead>
     <tr>
       <th>Category</th>
@@ -107,4 +103,4 @@
   </tbody>
 </table>
 	
-Thank you for visiting my profile!
+Thank you for visiting my profile!❤
